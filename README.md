@@ -1,0 +1,1 @@
+This is a command line game that allows the player to randomly add animals to a virtual grid, and then move around the grid and search for the animal.  There are directions displayed each time a move is made, as well as the current game board.  To play the game, simply run the main method in the Jungle_Game.java file.
